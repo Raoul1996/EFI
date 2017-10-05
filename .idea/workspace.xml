@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9419900f-7970-4f81-9be9-abedb5437bb6" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/._SSDT-HDEF.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/._SSDT-IGPU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-ALS0.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Config.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Debug.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Disable_DGPU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Disable_EH01.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Disable_EH02.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-Disable_EHCI.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-EH01.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-EH02.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-ESEL.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-GPRW.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-HDAU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-HDEF.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-IGPU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-IMEI.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-LANC_PRW.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-LPC.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-PNLF.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-PTSWAK.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-PluginType1.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-SATA.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-SMBUS.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-UPRW.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-XHC.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-XOSI.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-XSEL.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/hotpatch/SSDT-XWAK.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/APIC.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/ASF!.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/ASPT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/BGRT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/BOOT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/DBG2.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/DBGP.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/DMAR.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/DSDT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/FACP.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/FACS.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/FPDT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/HPET.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/LPIT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/MCFG.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/MSDM.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDP.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-ASF!.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-DBG2.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-DBGP.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-DSDT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-FACP.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-FACS.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-MSDM.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-SSDT-0.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-SSDT-1.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT-UEFI.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/RSDT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-0.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-1.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-10x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-11x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-12x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-13x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-14x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-15x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-2.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-3.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-4.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-5.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-6.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-7.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-8.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/SSDT-9x.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/UEFI.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/WDAT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/XSDT.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/归档.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-0.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-1.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-16.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-2.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-4.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-5.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-6.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-7.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-8.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-Disable-DGPU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-PNLF.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/._SSDT-pr.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-0.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-1.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-16.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-2.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-4.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-5.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-6.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-7.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-8.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-Disable-DGPU.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-PNLF.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/SSDT-pr.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/patched/ssdt.aml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._ACPIBatteryManager.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._AirportBrcmFixup.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._AppleALC.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._BrcmFirmwareData.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._BrcmPatchRAM2.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._CodecCommander.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakePCIID.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakePCIID_Broadcom_WiFi.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakePCIID_Intel_GbX.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakePCIID_Intel_HD_Graphics.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakePCIID_XHCIMux.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakeSMC.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakeSMC_ACPISensors.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakeSMC_CPUSensors.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakeSMC_GPUSensors.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._FakeSMC_LPCSensors.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._GenericUSBXHCI.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._IntelGraphicsDVMTFixup.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._IntelGraphicsFixup.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._IntelMausiEthernet.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._Lilu.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._RealtekRTL8111.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._SATA-100-series-unsupported.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._VoodooPS2Controller.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/._X86PlatformPluginInjector.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/._ACPIBatteryManager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/Contents/MacOS/ACPIBatteryManager" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AirportBrcmFixup.kext/Contents/MacOS/AirportBrcmFixup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/._PlugIns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/MacOS/._AppleALC" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/MacOS/AppleALC" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/PlugIns/._PinConfigs.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/PlugIns/PinConfigs.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/PlugIns/PinConfigs.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/._BrcmFirmwareData" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/Contents/MacOS/BrcmFirmwareData" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/._BrcmPatchRAM2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/Contents/MacOS/BrcmPatchRAM2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/CodecCommander.kext/Contents/MacOS/CodecCommander" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/Contents/MacOS/._FakePCIID" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/Contents/MacOS/FakePCIID" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Broadcom_WiFi.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_GbX.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_GbX.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/Contents/MacOS/._FakePCIID_XHCIMux" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/Contents/MacOS/FakePCIID_XHCIMux" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/Contents/MacOS/._FakeSMC" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/Contents/MacOS/FakeSMC" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/._ACPISensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/Contents/MacOS/ACPISensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/._CPUSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/Contents/MacOS/CPUSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/._GPUSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/Contents/MacOS/GPUSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/._LPCSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/Contents/MacOS/LPCSensors" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/Contents/MacOS/._GenericUSBXHCI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/Contents/MacOS/GenericUSBXHCI" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/Contents/MacOS/._IntelGraphicsDVMTFixup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/Contents/MacOS/IntelGraphicsDVMTFixup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/Contents/MacOS/._IntelGraphicsFixup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/Contents/MacOS/IntelGraphicsFixup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/Contents/MacOS/._IntelMausiEthernet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/Contents/MacOS/IntelMausiEthernet" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/Contents/MacOS/._Lilu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/Contents/MacOS/Lilu" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/RealtekRTL8111.kext/Contents/MacOS/RealtekRTL8111" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/SATA-100-series-unsupported.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/._PlugIns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/._VoodooPS2Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/MacOS/VoodooPS2Controller" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/._VoodooPS2Keyboard.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/._VoodooPS2Mouse.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/._VoodooPS2Trackpad.kext" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/._VoodooPS2Keyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/MacOS/VoodooPS2Keyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/._VoodooPS2Mouse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/MacOS/VoodooPS2Mouse" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/._VoodooPS2Trackpad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/MacOS/VoodooPS2Trackpad" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/._Contents" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/._Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/._MacOS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/._Resources" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/MacOS/X86PlatformPlugin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/Resources/._Mac-66E35819EE2D0D05.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/._SimpleThemeDark" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/._maverickslogin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/._banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/._screenshot0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/cd_lin.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/cd_mac.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/cd_win.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_clover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/func_shutdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_arch.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_clover.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_freebsd.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_legacy.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_linux.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_mac.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_recovery.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_sierra.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_ubuntu.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_unknown.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_win.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/os_win7.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/pointer.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/tool_shell.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/tool_shell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_clover.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_external.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_firewire.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_internal.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_internal_ext3.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_internal_hfs.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_internal_ntfs.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_optical.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/icons/vol_recovery.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/screenshot0.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/selection_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/selection_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/._bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/._font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/._icons" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/._theme.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/Selection_big.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/banner.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/font.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/cd_lin.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/cd_mac.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/cd_win.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_about.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_clover.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_options.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/func_shutdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_clover.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_cougar.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_freebsd.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_legacy.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_leo.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_linux.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_lion.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_mac.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_mav.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_recovery.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_snow.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_tiger.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_unknow.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_vista.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_win.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_win7.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_win8.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/os_yos.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/pointer.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/pointer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/tool_shell.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/tool_shell.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_clover.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_external.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_firewire.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_internal.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_internal_ext3.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_internal_hfs.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_internal_ntfs.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_optical.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/icons/vol_recovery.icns" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/screenshot.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/selection_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ACPI/origin/DumpLog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/ACPIBatteryManager.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AirportBrcmFixup.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/AppleALC.kext/Contents/PlugIns/PinConfigs.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmFirmwareData.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/BrcmPatchRAM2.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/CodecCommander.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Broadcom_WiFi.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_GbX.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_Intel_HD_Graphics.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakePCIID_XHCIMux.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_ACPISensors.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_CPUSensors.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_GPUSensors.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/FakeSMC_LPCSensors.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/GenericUSBXHCI.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsDVMTFixup.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelGraphicsFixup.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/IntelMausiEthernet.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/Lilu.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/RealtekRTL8111.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/SATA-100-series-unsupported.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Mouse.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Trackpad.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kexts/Other/X86PlatformPluginInjector.kext/Contents/Resources/Mac-66E35819EE2D0D05.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/.hash" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/SimpleThemeDark/theme.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/maverickslogin/theme.plist" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="415967" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="474747" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="D2D4D5" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="4E5579" />
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>true</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ColorIdeProjectViewPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ColorIdeProjectViewPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="CLOVER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CLOVER" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="JavaScriptPreferStrict" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.jscs" value="project" />
+    <property name="node.js.selected.package.jscs" value="" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.5.0" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9419900f-7970-4f81-9be9-abedb5437bb6" name="Default" comment="" />
+      <created>1507226276296</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507226276296</updated>
+      <workItem from="1507226282149" duration="84000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="84000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1057" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960506" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Browser" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="DB Execution Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32980973" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
