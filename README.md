@@ -6,3 +6,9 @@
 3. Graphics: Intel HD 530
 4. AC: bcm 94532z(maybe I forget it)
 .....
+ 
+update at 2017-10-20
+
+1. fix the appleALC device.
+2. fix the ELAN touchPad device. but It looks don't work very well.
+3. the bluetouch can't connect other device after I use the bsm 94353z.  
