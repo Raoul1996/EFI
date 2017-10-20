@@ -424,10 +424,6 @@
 		<true/>
 		<key>DellSMBIOSPatch</key>
 		<false/>
-		<key>ForceKextsToLoad</key>
-		<array>
-			<string>\System\Library\Extensions\IONetworkingFamily.kext</string>
-		</array>
 		<key>KernelLapic</key>
 		<true/>
 		<key>KernelPm</key>
@@ -593,7 +589,7 @@
 				<key>Comment</key>
 				<string>AirPort Extreme</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				axAAAHUN
@@ -609,7 +605,7 @@
 				<key>Comment</key>
 				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				QYP8/3QsSA==
@@ -623,7 +619,7 @@
 			</dict>
 			<dict>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				QkNNNDN4eCAxLjAgKDcuMjEuOTUuMTc1LjFhNik=
@@ -637,7 +633,7 @@
 			</dict>
 			<dict>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				SIX/dEdIiwc=
@@ -647,6 +643,70 @@
 				<key>Replace</key>
 				<data>
 				Qb4PAAAA60Q=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Zeroing 10ec0261 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				YQLsEA==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Zeroing 10ec0262 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				YgLsEA==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Zeroing 10ec0885 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				hQjsEA==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				AAAAAA==
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Patching 11d41984 with 10ec0235 codec (patched by AppleHDA Patcher.app)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				hBnUEQ==
+				</data>
+				<key>Name</key>
+				<string>AppleHDA</string>
+				<key>Replace</key>
+				<data>
+				NQLsEA==
 				</data>
 			</dict>
 		</array>
