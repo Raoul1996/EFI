@@ -40,13 +40,25 @@
 			<dict>
 				<key>#Comment-IRQ Fix</key>
 				<string>The following fixes may be needed for onboard audio/USB/etc</string>
-				<key>AddDTGP_0001</key>
+				<key>AddDTGP</key>
 				<true/>
-				<key>AddPNLF_1000000</key>
+				<key>AddPNLF</key>
 				<true/>
-				<key>FixHDA_8000</key>
+				<key>FixDisplay</key>
 				<true/>
-				<key>FixHeaders_20000000</key>
+				<key>FixHDA</key>
+				<true/>
+				<key>FixHPET</key>
+				<true/>
+				<key>FixHeaders</key>
+				<true/>
+				<key>FixIPIC</key>
+				<true/>
+				<key>FixLAN</key>
+				<true/>
+				<key>FixSATA</key>
+				<true/>
+				<key>FixSBUS</key>
 				<true/>
 			</dict>
 			<key>Name</key>
@@ -240,8 +252,6 @@
 				<string>xh_rvp10</string>
 			</dict>
 		</array>
-		<key>HaltEnabler</key>
-		<true/>
 		<key>SSDT</key>
 		<dict>
 			<key>DropOem</key>
@@ -262,9 +272,9 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v dart=0 nv_disable=1 kext-dev-mode=1</string>
+		<string>dart=0 nv_disable=1 kext-dev-mode=1</string>
 		<key>DefaultLoader</key>
-		<string>Mac</string>
+		<string>OS</string>
 		<key>DefaultVolume</key>
 		<string>LastBootedVolume</string>
 		<key>Legacy</key>
@@ -338,14 +348,17 @@
 			<key>Inject</key>
 			<string>3</string>
 		</dict>
+		<key>FakeID</key>
+		<dict>
+			<key>WIFI</key>
+			<string>0x43A014E4</string>
+		</dict>
 		<key>USB</key>
 		<dict>
-			<key>AddClockID</key>
-			<true/>
 			<key>FixOwnership</key>
-			<true/>
+			<false/>
 			<key>Inject</key>
-			<true/>
+			<false/>
 		</dict>
 	</dict>
 	<key>DisableDrivers</key>
@@ -376,6 +389,10 @@
 				</dict>
 			</array>
 		</dict>
+		<key>Hide</key>
+		<array>
+			<string>Microsoft</string>
+		</array>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -589,7 +606,7 @@
 				<key>Comment</key>
 				<string>AirPort Extreme</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				axAAAHUN
@@ -605,7 +622,7 @@
 				<key>Comment</key>
 				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				QYP8/3QsSA==
@@ -619,7 +636,7 @@
 			</dict>
 			<dict>
 				<key>Disabled</key>
-				<true/>
+				<false/>
 				<key>Find</key>
 				<data>
 				QkNNNDN4eCAxLjAgKDcuMjEuOTUuMTc1LjFhNik=
@@ -709,6 +726,24 @@
 				NQLsEA==
 				</data>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>10.12+-第二阶段花屏</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				AQAAdSU=
+				</data>
+				<key>MatchOS</key>
+				<string>10.12.x</string>
+				<key>Name</key>
+				<string>IOGraphicsFamily</string>
+				<key>Replace</key>
+				<data>
+				AQAA6yU=
+				</data>
+			</dict>
 		</array>
 	</dict>
 	<key>RtVariables</key>
@@ -773,6 +808,8 @@
 		<integer>0</integer>
 		<key>InjectKexts</key>
 		<string>Detect</string>
+		<key>NoCaches</key>
+		<true/>
 	</dict>
 </dict>
 </plist>
