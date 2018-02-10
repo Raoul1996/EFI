@@ -13,4 +13,4 @@ update at 2017-10-20
 2. fix the ELAN touchPad device. but It looks don't work very well.
 	1. deleted the VoodooPS2Controller.kext 
 	2. add the ApplePS2SmartTouchPad.kext
-3. the bluetouch can't connect other device after I use the bsm 94353z.  
+3. the bluetouch can't connect other device after I use the bcm 94353z.  
