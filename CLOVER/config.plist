@@ -281,12 +281,14 @@
 		<string>PBR</string>
 		<key>NeverHibernate</key>
 		<true/>
+		<key>NoEarlyProgress</key>
+		<true/>
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
 		<integer>5</integer>
 		<key>XMPDetection</key>
-		<string>Yes</string>
+		<false/>
 	</dict>
 	<key>CPU</key>
 	<dict>
@@ -393,6 +395,8 @@
 		<array>
 			<string>Microsoft</string>
 		</array>
+		<key>Language</key>
+		<string>en:0</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
@@ -412,7 +416,7 @@
 		<key>ScreenResolution</key>
 		<string>1920x1080</string>
 		<key>Theme</key>
-		<string>maverickslogin</string>
+		<string>minimal</string>
 	</dict>
 	<key>Graphics</key>
 	<dict>
@@ -442,9 +446,9 @@
 		<key>DellSMBIOSPatch</key>
 		<false/>
 		<key>KernelLapic</key>
-		<true/>
+		<false/>
 		<key>KernelPm</key>
-		<true/>
+		<false/>
 		<key>KernelToPatch</key>
 		<array>
 			<dict>
@@ -532,6 +536,24 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
+				<string>AirPortBrcm4360 - fcvo, 10.12.x (credit the-darkvoid)</string>
+				<key>Disabled</key>
+				<false/>
+				<key>Find</key>
+				<data>
+				gflSqgAAdSk=
+				</data>
+				<key>MatchOS</key>
+				<string>10.12.x</string>
+				<key>Name</key>
+				<string>com.apple.driver.AirPort.Brcm4360</string>
+				<key>Replace</key>
+				<data>
+				gflSqgAAZpA=
+				</data>
+			</dict>
+			<dict>
+				<key>Comment</key>
 				<string>AirPortBrcm4360 - PCI Error 1</string>
 				<key>Disabled</key>
 				<false/>
@@ -586,24 +608,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>AirPortBrcm4360 - fcvo, 10.12.x (credit the-darkvoid)</string>
-				<key>Disabled</key>
-				<false/>
-				<key>Find</key>
-				<data>
-				gflSqgAAdSk=
-				</data>
-				<key>MatchOS</key>
-				<string>10.12.x</string>
-				<key>Name</key>
-				<string>com.apple.driver.AirPort.Brcm4360</string>
-				<key>Replace</key>
-				<data>
-				gflSqgAAZpA=
-				</data>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>AirPort Extreme</string>
 				<key>Disabled</key>
 				<false/>
@@ -622,7 +626,7 @@
 				<key>Comment</key>
 				<string>10.11-BCM94352-5GHz-US-FCC-dv</string>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				QYP8/3QsSA==
@@ -636,7 +640,7 @@
 			</dict>
 			<dict>
 				<key>Disabled</key>
-				<false/>
+				<true/>
 				<key>Find</key>
 				<data>
 				QkNNNDN4eCAxLjAgKDcuMjEuOTUuMTc1LjFhNik=
@@ -806,6 +810,8 @@
 	<dict>
 		<key>#BacklightLevel</key>
 		<integer>0</integer>
+		<key>BacklightLevel</key>
+		<string>0x0501</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>NoCaches</key>
